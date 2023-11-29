@@ -1,0 +1,6 @@
+.formulario { 
+    display: grid;
+    width: 25%;
+    margin-left: 75vh;
+    margin-top: 15vh;
+}
